@@ -1,0 +1,2 @@
+- miner
+- "Orc raiders have been seen on the east end of Triboar Trail. The townmaster ([[Harbin Wester]]) is looking for someone to deal with them"

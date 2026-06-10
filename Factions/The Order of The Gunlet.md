@@ -1,0 +1,4 @@
+- devout
+- vigilant
+- seeks to protect others from depredations of evildoers
+- 

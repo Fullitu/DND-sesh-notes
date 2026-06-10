@@ -1,0 +1,237 @@
+{
+  "main": {
+    "id": "b308e95cd9b6053d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e07a27a052cf4cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "666d8e0e511b1bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quests/Old Owl Trouble.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Old Owl Trouble"
+            }
+          },
+          {
+            "id": "f95bfa13dc5b1e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phandalin/Locations/Alderleaf farm.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alderleaf farm"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd60e7e0ac21d379",
+    "type": "split",
+    "children": [
+      {
+        "id": "b411e2a635c759d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "717081dae5ae2348",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27a0ab1fd87f3b69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6411e4a32477cc32",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f44ba0a5703f00cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccac35420bf9ebd4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "244e193555206462",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Players/Bingus.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Bingus"
+            }
+          },
+          {
+            "id": "42b36a6fa459b1f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Players/Bingus.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Bingus"
+            }
+          },
+          {
+            "id": "537e8e3f25333f92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dd59e820906043fa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "06ddb41eb46c9773",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Players/Bingus.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Bingus"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "717081dae5ae2348",
+  "lastOpenFiles": [
+    "Players/Bingus.md",
+    "Phandalin/Phandalin.md",
+    "Phandalin/Locations/Alderleaf farm.md",
+    "Phandalin/People/Elsa.md",
+    "Phandalin/Locations/Tresendar Manor.md",
+    "Phandalin/Locations/Edermath Orchard.md",
+    "2026-06-10.md",
+    "Locations.md",
+    "Phandalin/Locations/Stonehill Inn.md",
+    "Phandalin/People/Slidar Hallwinter.md",
+    "Phandalin/People/Glasstaff.md",
+    "Phandalin/People/Daran Edermath.md",
+    "Players/Gimli.md",
+    "Factions/The Order of The Gunlet.md",
+    "The Old.md",
+    "Phandalin/Locations/Sleeping Giant.md",
+    "Factions/Redbrands.md",
+    "Factions",
+    "Quests/Old Owl Trouble.md",
+    "Phandalin/Locations/Shrine of Luck.md",
+    "Quests",
+    "Phandalin/Untitled",
+    "Phandalin/People/Quelline Aderlead.md",
+    "Players/Cornelius.md",
+    "Phandalin/People/Grunden Rockseeker.md",
+    "Players",
+    "Phandalin/People/Harbin Wester.md",
+    "Phandalin/People/Freda.md",
+    "Phandalin/Locations/Miner's Exchange.md",
+    "Phandalin/People/Sister Garaele.md",
+    "Untitled.canvas",
+    "Phandalin/People",
+    "Phandalin/Locations",
+    "Phandalin"
+  ]
+}

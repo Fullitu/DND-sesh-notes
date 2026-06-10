@@ -1,0 +1,2 @@
+- "Thel Debdrar, a local woodcarver, stood up to Redbrands a tenday ago when they came by his shop and leered at his wife. the ruffins murdered him. Several townsfolk saw it happen. His wife, daughter and son have gone missing too"
+- NOTE: Thel's family is being kept captive by Redbrands in [[Redbands Hideout]]

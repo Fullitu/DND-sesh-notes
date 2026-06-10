@@ -1,0 +1,2 @@
+- weaver
+- "Redbrands hassle every business in the town, except for Phandalin [[Miner's Exchange]]"
