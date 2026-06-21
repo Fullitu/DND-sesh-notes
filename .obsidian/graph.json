@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Phandalin/Locations  ",
@@ -20,18 +20,32 @@
         "a": 1,
         "rgb": 6021202
       }
+    },
+    {
+      "query": "path:Factions  ",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
+    },
+    {
+      "query": "path:Players  ",
+      "color": {
+        "a": 1,
+        "rgb": 14729554
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
-  "repelStrength": 9.30795847750865,
+  "repelStrength": 14.8958333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.7131348162998309,
+  "linkDistance": 248,
+  "scale": 0.6316046762907295,
   "close": false
 }

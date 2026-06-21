@@ -1,0 +1,1 @@
+Ex-teammate of [[Gimli]], member of [[Redbrands]] now in [[Gorunn]]'s trio.
