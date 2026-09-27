@@ -11,20 +11,30 @@
             "id": "b5ddaa8b3186022d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": -518,
-                  "y": -115,
-                  "zoom": 0
-                }
+                "file": "Phandalin/Phandalin.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "icon": "lucide-file",
+              "title": "Phandalin"
+            }
+          },
+          {
+            "id": "c33b120fbc663bba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Redbrands hideout map.png"
+              },
+              "icon": "lucide-image",
+              "title": "Redbrands hideout map"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -116,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Redbrands hideout map.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled 1"
+              "title": "Outgoing links"
             }
           },
           {
@@ -186,37 +198,41 @@
       "bases:Create new base": false
     }
   },
-  "active": "42b36a6fa459b1f5",
+  "active": "717081dae5ae2348",
   "lastOpenFiles": [
+    "dnd_starter_rulebook.pdf",
+    "Phandalin map.png",
+    "Redbrands hideout map.png",
+    "Phandalin/Phandalin.md",
+    "Phandalin/Locations/Tresendar Manor.md",
+    "Phandalin/People/Qelline Alderlead.md",
+    "Phandalin/Locations/Alderleaf farm.md",
+    "Phandalin/Locations/Miner's Exchange.md",
+    "Phandalin/Locations/Shrine of Luck.md",
+    "Phandalin/People/Gorunn.md",
+    "Phandalin/People/Freda.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "Untitled 1.canvas",
-    "Players/Bingus.md",
+    "Untitled 2.canvas",
     "Untitled.canvas",
+    "Players/Bingus.md",
     "Phandalin/Locations/Stonehill Inn.md",
     "Phandalin/People/Tharden Rockseeker.md",
     "Players/Gimli.md",
     "Phandalin/People/Grunden Rockseeker.md",
     "Phandalin/People/Nundro Rockseeker.md",
     "Phandalin/People/Trilena Stonehill.md",
-    "Phandalin/Phandalin.md",
     "Phandalin/People/Daran Edermath.md",
     "Phandalin/People/Toblen Stonehill.md",
     "Phandalin/People/Lanar.md",
     "Phandalin/People/Narth.md",
     "Phandalin/People/Pip Stonehill.md",
-    "Phandalin/People/Qelline Alderlead.md",
-    "Phandalin/Locations/Alderleaf farm.md",
     "Players/Cornelius.md",
-    "Phandalin/People/Freda.md",
-    "Phandalin/Locations/Miner's Exchange.md",
     "Others/Tymora.md",
     "Phandalin/Locations/Redbands Hideout.md",
-    "Phandalin map.png",
-    "Redbrands hideout map.png",
     "Phandalin/People/Mei.md",
     "Quests/Stan the Shapeshifter.md",
-    "Phandalin/Locations/Shrine of Luck.md",
-    "Phandalin/People/Gorunn.md",
-    "Factions/Harpers.md",
     "Others",
     "Factions",
     "Quests",
